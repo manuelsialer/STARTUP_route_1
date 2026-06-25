@@ -1,4 +1,4 @@
-# 🚀 Ruta de Madurez Empresarial EUp (BRL 1–9)
+# 🚀 Ruta de Madurez Empresarial  (BRL 1–9)
 ### Framework Integrado de Transformación: De Idea a Corporación Escalable Internacionalmente
 
 > **Fundamento metodológico:** Lean Startup · Scaling Up · Design Thinking · Blue Ocean Strategy · Theory of Change · Innovation Accounting · Crossing the Chasm · Jobs to Be Done · OKRs · Corporate Venturing · SCAMPER · Seven Domains (Mullins) · Business Model Patterns · TRL Framework · Startup Scoring Board
