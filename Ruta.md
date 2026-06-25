@@ -1,4 +1,4 @@
-# 🚀 Ruta de Madurez Empresarial  (BRL 1–9)
+# 🚀 Ruta de Madurez Empresarial(BRL 1–9)
 ### Framework Integrado de Transformación: De Idea a Corporación Escalable Internacionalmente
 
 > **Fundamento metodológico:** Lean Startup · Scaling Up · Design Thinking · Blue Ocean Strategy · Theory of Change · Innovation Accounting · Crossing the Chasm · Jobs to Be Done · OKRs · Corporate Venturing · SCAMPER · Seven Domains (Mullins) · Business Model Patterns · TRL Framework · Startup Scoring Board
@@ -42,7 +42,8 @@ BRL 7-9: RIESGO DE ESCALA         → ¿Puede crecer sin romperse?
 **Objetivo:** Descubrir necesidades latentes que el usuario no puede articular y entender el problema desde su raíz causal, no desde sus síntomas superficiales.
 
 #### 1.1 Marco de Investigación
-- **Nivel 1 — Usuario:** ¿Qué hace, piensa, siente, dice? (Mapa de Empatía clásico)
+- **Nivel 0 — Arquetipo Provisional (User Persona Hipotético):** Antes de empatizar en el vacío, debes elegir del Mapa de Actores a quién vas a investigar. Define un "User Persona" básico (edad, contexto, rol) que servirá como hipótesis para saber exactamente a quién buscar para las entrevistas.
+- **Nivel 1 — Usuario:** ¿Qué hace, piensa, siente, dice? (Mapa de Empatía clásico, enfocado en el arquetipo tras las entrevistas)
 - **Nivel 2 — Ecosistema:** ¿Quién más se ve afectado? ¿Quién bloquea? ¿Quién se beneficia del statu quo?
 - **Nivel 3 — Sistema:** ¿Qué fuerzas estructurales (regulatorias, culturales, económicas) perpetúan el problema?
 
@@ -267,9 +268,9 @@ La herramienta no es solo un ejercicio de diferenciación: es una **reconfigurac
 
 #### 2.3 Segmentación Profunda — Perfil de Cliente Ideal (ICP)
 
-No "todos los empresarios" ni "las PYMEs". Define:
+Una vez que terminaron las entrevistas y validaron que el problema existe, ese arquetipo inicial e ingenuo de la Fase 1 se convierte en una segmentación dura, técnica y enfocada en ventas. No "todos los empresarios" ni "las PYMEs". Define:
 - Industria específica
-- Tamaño de empresa (empleados, ingresos)
+- Tamaño de empresa (empleados, ingresos, presupuesto)
 - Cargo del decisor y del influenciador
 - Problema prioritario en este trimestre
 - Solución actual que usa (tu competencia real)
