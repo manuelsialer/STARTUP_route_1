@@ -28,7 +28,10 @@
 * 🔒 [Paso 5: Diseño de Hipótesis y Experimentos (Problem-Solution Fit en Papel)](Fase_1B_Pre_Incubacion_Avanzada.md#%F0%9F%A7%AA-paso-5-dise%C3%B1o-de-hip%C3%B3tesis-y-experimentos-problem-solution-fit-en-papel)
 * 🔒 [Paso 6: Diseño de Escenarios y Modelo de Negocio](Fase_1B_Pre_Incubacion_Avanzada.md#%F0%9F%93%90-paso-6-dise%C3%B1o-de-escenarios-y-modelo-de-negocio)
 * 🏁 **[Compuerta 1B: Checklist de Problem-Solution Fit](Fase_1B_Pre_Incubacion_Avanzada.md#%F0%9F%8F%81-compuerta-1b-checklist-de-problem-solution-fit)**
-* 🧰 **[Anexo: Toolkit Avanzado (Pre-Incubación)](Toolkit_Avanzado.md)** *(Ideación y Dinámicas)*
+
+### 🛡️ Recursos para Mentores e Intervenciones Especiales
+* 🧰 **[Anexo: Toolkit Avanzado (Pre-Incubación)](Toolkit_Avanzado.md)** *(Ideación, Diferenciación y Dinámicas)*
+* 🧠 **[Guía de Supervivencia Psicológica para Mentores](Guia_Mentores_Psicologia.md)** *(Detección y resolución de patologías del equipo)*
 
 ### [Fase 2: Incubación (BRL 4–6)](Fase_2_Incubacion.md)
 **Tracción y Product-Market Fit**
