@@ -34,6 +34,12 @@ En la Fase 1 utilizaste el modelo dinámico *Slicing Pie* para evitar dilución 
 3. **Protección a Futuro:** A partir de este momento fundacional, a esas acciones se les aplica el *Vesting* corporativo estándar (4 años con un *cliff* de 1 año). Esto protege el capital ya ganado si alguien abandona durante la escalada.
 4. **Arbitraje Final:** La conversión de la hoja de cálculo semanal a porcentajes de Cap Table debe ser **auditada y validada por el Director de la Incubadora o un asesor legal externo**. Si hay disputas entre co-fundadores por las horas reportadas en Fase 1, el Director actúa como árbitro vinculante antes de emitir cualquier acción.
 
+#### 6.3 Auditoría de la Condición Interna del CEO (El Factor de Riesgo #1)
+*Advertencia de "The CEO":* A medida que la organización crece hacia el escalamiento, el líder suele mutar bajo presión hacia dos perfiles destructivos que impiden la transición de Emprendedor a Empresario:
+- **El Artista 🎨:** Obsesionado con crear *features*, evade ventas y tacha los procesos estructurados de "burocracia".
+- **El Dictador 👊:** Centraliza opresivamente cada decisión, castiga el disenso y ahuyenta al talento clase A.
+- **Mecanismo Obligatorio:** Implementar una evaluación 360° trimestral del CEO facilitada por un mentor externo para garantizar que la madurez de la empresa avanza guiada por el "Entusiasmo" y no descarrilada por el cansancio o la ambición.
+
 ---
 
 ### 📊 Paso 7: Product-Market Fit Test (La Prueba de Retención)
@@ -66,11 +72,15 @@ El *Sean Ellis Test* y las cohortes diarias no funcionan para ciclos de venta co
 
 **Objetivo:** Validar que puedes adquirir clientes repetidamente sin depender de la magia de los fundadores.
 
-#### 8.1 Minimum Viable Repeatability (MVR) cuantificado
-Antes de buscar una Serie A, debes demostrar empíricamente el *Traction Gap* superado (MVR). 
+#### 8.1 La Táctica del "Día D" (Beachhead Segment)
+*Advertencia de "The CEO":* Intentar atacar un mercado amplio destruirá tus limitados recursos de capital y tiempo. No puedes cruzar el abismo en dos lugares a la vez.
+- La validación del PMF y la repetibilidad debe restringirse **estrictamente a un único segmento de cabeza de playa (Beachhead)** lo suficientemente pequeño para ser dominado en 12-18 meses. Este segmento es tu "primer pin de bolos" para generar referencias reales y cruzar el abismo (Chasm).
+
+#### 8.2 Minimum Viable Repeatability (MVR) cuantificado
+Antes de buscar una Serie A, debes demostrar empíricamente el *Traction Gap* superado (MVR) dentro de tu *Beachhead*. 
 > **Métrica heurística de validación MVR:** (Basado en los umbrales de evaluación de métricas semilla de fondos como Point Nine Capital): Al menos el **20%** de la nueva adquisición de clientes/ingresos debe provenir de manera consistente (durante 2 meses) de un canal estructurado (ej. Inbound, Outbound, Ads) que **no** requiere la intervención directa de la red personal o los contactos cálidos del fundador.
 
-#### 8.2 Los Tres Motores de Crecimiento
+#### 8.3 Los Tres Motores de Crecimiento
 Dedica 50% de esfuerzo al producto y 50% a la tracción.
 
 > ⚠️ **Origen de las Heurísticas:** Las métricas de éxito listadas abajo son *benchmarks* prestados de la industria SaaS institucional (ej. datos de Bessemer/OpenView). Para plataformas transaccionales de bajo ticket o marketplaces de consumo ocasional, el *churn* y el CAC aceptable son radicalmente distintos. Usa esta tabla como punto de partida, pero calíbrala rápidamente a tu industria real.
@@ -124,4 +134,5 @@ Para disipar la confusión financiera, maneja la caja según esta jerarquía est
 **3. Riesgo Estructural Mitigado (CONDICIONAL - Pase con advertencia)**
 - [ ] Constitución legal formal y *Cap Table* limpia proveniente del *Slicing Pie*.
 - [ ] IP cedida y *Vesting* firmado por los fundadores.
+- [ ] Evaluación 360° trimestral del CEO institucionalizada y documentada.
 > 🚨 **SLA de Pase Condicionado:** Si se cumple el PMF (1 y 2) pero falla la gobernanza (3), el avance se concede condicionalmente. Si en **30 días** no se regulariza la firma del Cap Table/Vesting, se suspenden beneficios y apoyos de escalamiento para evitar disolución fiduciaria. Si al día **45** persiste la fractura legal, el equipo es **expulsado irrevocablemente**. El riesgo fiduciario pre-Serie A es inaceptable y requiere un castigo más estricto que en la Fase 1.

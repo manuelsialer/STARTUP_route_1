@@ -72,12 +72,13 @@ Las corporaciones industriales evalúan la madurez tecnológica usando la escala
 - **TRL 7-9:** Sistema probado operativamente (Apto para compras corporativas reales).
 *Regla de oro: No intentes cerrar ventas directas a operaciones críticas si no estás mínimo en TRL 7.*
 
-#### 3.2 Framework Genérico de Prueba de Concepto (PoC B2B)
-Toda venta corporativa B2B grande inicia con un piloto. Para evitar el "piloto eterno" (muerte por burocracia), el contrato de PoC debe contener:
+#### 3.2 Framework Genérico de Prueba de Concepto (PoC B2B) y el Síndrome NIH
+*Advertencia de "The CEO":* Al entrar a una corporación, tu mayor enemigo no es tecnológico, son los "anticuerpos corporativos" y el **Síndrome NIH (Not Invented Here)**. Los mandos medios boicotearán pasivamente tu solución si amenaza su poder.
+Para evitar el "piloto eterno" o el boicot interno, el contrato de PoC debe contener:
 1. **Benchmark Base:** El indicador de la solución actual del cliente (ej. 12% de errores).
 2. **Meta del PoC:** El indicador de éxito innegociable (ej. <3% de errores).
 3. **Business Case de Escalamiento:** El ROI proyectado si se implementa a toda la empresa tras el piloto.
-*Sin el punto 3, el PoC es un experimento curioso, no una venta inminente.*
+4. **Identificación y Alineación del "Champion":** Queda estrictamente prohibido iniciar un piloto sin identificar un *Champion* interno cuya evaluación de desempeño anual (sus KPIs personales) esté atada contractualmente al éxito de este piloto. *Lo que no está en los objetivos anuales de un trabajador corporativo, simplemente no existe.*
 
 ---
 
@@ -106,9 +107,9 @@ El fundador debe dejar de ser el "héroe" que resuelve los incendios operativos.
 
 #### 5.2 Prevención de Perfiles Patológicos
 El estrés crónico del crecimiento (Burnout) muta a los fundadores en perfiles patológicos que destruyen la cultura:
-- **El Dictador:** Microgestiona todo por miedo a perder el control al crecer.
-- **El Artista:** Se aburre de la ejecución corporativa y lanza ideas nuevas caóticas distrayendo al equipo de sus OKRs.
-*Mecanismo de prevención:* El OPSP y el *Meeting Rhythm* (Engranaje 1) sirven como candados para obligar al fundador a rendir cuentas a su propio equipo directivo, evitando que la empresa gire en torno a sus cambios de humor.
+- **El Dictador 👊:** Microgestiona todo por miedo a perder el control al crecer. Centraliza y castiga el disenso.
+- **El Artista 🎨:** Se aburre de la ejecución corporativa y lanza ideas nuevas caóticas distrayendo al equipo de sus OKRs.
+*Mecanismo de prevención:* Además del OPSP y el *Meeting Rhythm* (Engranaje 1), es institucionalmente obligatorio ejecutar una **Evaluación 360° trimestral del CEO, facilitada por un mentor externo**. Este es el único mecanismo que asegura que la empresa avance empujada por el *Entusiasmo* del líder, y no descarrilada por su cansancio o ambición ciega.
 
 ---
 

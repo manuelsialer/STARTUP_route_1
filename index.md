@@ -15,4 +15,4 @@ Esta metodología (v3.0) abandona el "optimismo tóxico" y la burocracia, e impl
   * *Foco:* Ritmo Directivo (Matriz 4D), Burn Multiple < 2x, Corporate Venturing B2B (TRL/PoC), y la Transición de Emprendedor a Empresario.
 
 ---
-*Nota: Estos son los documentos consolidados finales tras la auditoría operativa. Los borradores originales se mantienen en la carpeta `Fases/` solo con fines de archivo histórico.*
+*Nota: Estos son los documentos consolidados finales tras la auditoría operativa.*

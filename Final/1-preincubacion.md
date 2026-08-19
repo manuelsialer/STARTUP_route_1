@@ -80,6 +80,10 @@ En esta fase, la relación `Lifetime Value > 3x Cost of Customer Acquisition` **
 - **Value Proposition Canvas:** En ecosistemas multi-stakeholder (B2B/Biotech), haz un Canvas por cada actor (Usuario, Comprador, Influenciador).
 - **Questorming:** Lluvia de preguntas que desafían los paradigmas de la industria.
 
+#### 4.1 Cierre de la "Brecha Cognitiva" (Design Fiction)
+*Advertencia de "The CEO":* Los fundadores suelen asumir que el cliente entiende la solución de inmediato. Esto es la **Brecha Cognitiva (Cognitive Chasm)**: para ti la idea es evidente tras meses de pensarla, para el cliente es ruido técnico incomprensible.
+- **Protocolo Obligatorio:** Queda prohibido pitchear "características técnicas" (features). Se exige usar **Design Fiction y Narrativa Visual**. Debes contar una historia tangible y visual que proyecte exactamente cómo será la vida del usuario *después* de que la innovación esté implementada. Haz tangible el futuro, no el código.
+
 ---
 
 ### 🧪 Paso 5: Solution Fit & Experimentos de Alta Fricción
@@ -111,6 +115,7 @@ Reemplaza experimentos débiles (clics/emails) por acciones de fricción real:
 - [ ] Definición de ruta clara (VC vs. Bootstrapping).
 
 **2. Solution Fit & Fricción (CRÍTICO - No negociable)**
+- [ ] Protocolo de **Design Fiction** superado: La solución se explica mediante narrativa visual de la vida futura del usuario, sin depender de jerga técnica.
 - [ ] Experimento de **Alta Fricción** ejecutado según el vertical (Fake checkout superando heurística e-commerce, LOIs firmados, o PoC técnico avalado).
 - [ ] **Filtro de Plausibilidad:** El ejercicio matemático (no maquillado) demuestra que el `LTV estimado > 3x CAC estimado` (*Ver nota de tolerancia del Comité arriba*).
 
